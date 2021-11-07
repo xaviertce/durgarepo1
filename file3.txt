@@ -1,0 +1,1 @@
+this is the thrid line file3.txt
